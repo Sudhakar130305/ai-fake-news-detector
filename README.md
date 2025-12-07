@@ -1,6 +1,8 @@
 AI & Fake News Detector
 An intelligent web application that detects whether a news article is AI-generated or human-written and verifies its authenticity using the Google Fact-Check API. Built using DistilBERT, Streamlit, and Transformers.
 
+LIVE LINK https://ai-fake-news-detector-9jxuk6kb6w36fb2dhiwgfq.streamlit.app/
+
 Features
 
  Detects AI-generated vs Human-written text
